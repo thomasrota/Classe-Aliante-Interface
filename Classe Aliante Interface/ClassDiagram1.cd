@@ -33,10 +33,18 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="Classe_Aliante_Interface.Aliante_Interfaccia.Coda">
-    <Position X="3" Y="4.75" Width="2" />
+    <Position X="3.5" Y="5.25" Width="2" />
     <TypeIdentifier>
       <HashCode>AAAAAAQAEQAAAAAEgAIAAAAAAABAAAAAAAAAAgAAAAA=</HashCode>
       <FileName>Coda.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Classe_Aliante_Interface.Gomma">
+    <Position X="6" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAcAAAAAEgAIAAACAAABEAAAAAAAAAgAQAAA=</HashCode>
+      <FileName>Gomma.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
