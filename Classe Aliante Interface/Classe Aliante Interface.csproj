@@ -49,6 +49,7 @@
     <Compile Include="Ala.cs" />
     <Compile Include="Aliante.cs" />
     <Compile Include="Cerchione.cs" />
+    <Compile Include="Coda.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
