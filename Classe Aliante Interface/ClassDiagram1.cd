@@ -24,6 +24,14 @@
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
+  <Class Name="Classe_Aliante_Interface.Cerchione">
+    <Position X="11.25" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAQAAAAAEgAIAAAYAAABAAAAAAAAAAgAAAAg=</HashCode>
+      <FileName>Cerchione.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
   <Interface Name="Classe_Aliante_Interface.IComposite">
     <Position X="0.5" Y="0.75" Width="2" />
     <TypeIdentifier>
