@@ -3,7 +3,7 @@
   <Class Name="Classe_Aliante_Interface.Aliante">
     <Position X="4" Y="0.75" Width="3" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAQAAAAAEgAICAAAAAABAAAAAAAAIAgAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAQAAAAAEgAICAAAAAABAAIAAAAAIAgAAAAA=</HashCode>
       <FileName>Aliante.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
@@ -11,7 +11,7 @@
   <Class Name="Classe_Aliante_Interface.Ala">
     <Position X="7.25" Y="0.75" Width="3" />
     <TypeIdentifier>
-      <HashCode>AAAAEAQAEQAAAABEgAIAAAAAAABAAAAAAAAAAgAAAAA=</HashCode>
+      <HashCode>AAAAEAQAEQAAAABEgAIAAAAAAABAAIAAAAAAAgAAAAA=</HashCode>
       <FileName>Ala.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
@@ -19,7 +19,7 @@
   <Class Name="Classe_Aliante_Interface.Fusoliera">
     <Position X="10.5" Y="0.75" Width="3.25" />
     <TypeIdentifier>
-      <HashCode>AEAAAAQAEQAAAAAEgAIAAAQAAABAAAAAAAAAAgAAAAA=</HashCode>
+      <HashCode>AEAAAAQAEQAAAAAEgAIAAAQAAABAAIAAAAAAAgAAAAA=</HashCode>
       <FileName>Fusoliera.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
@@ -27,7 +27,7 @@
   <Class Name="Classe_Aliante_Interface.Cerchione">
     <Position X="14" Y="0.75" Width="3" />
     <TypeIdentifier>
-      <HashCode>AEAAAAAAAQAAAAAEgAIAAAYAAABAAAAAAAAAAgAAAAg=</HashCode>
+      <HashCode>AEAAAAAAAQAAAAAEgAIAAAYAAABAAIAAAAAAAgAAAAg=</HashCode>
       <FileName>Cerchione.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
@@ -35,7 +35,7 @@
   <Class Name="Classe_Aliante_Interface.Aliante_Interfaccia.Coda">
     <Position X="4" Y="5.25" Width="3" />
     <TypeIdentifier>
-      <HashCode>AAAAAAQAEQAAAAAEgAIAAAAAAABAAAAAAAAAAgAAAAA=</HashCode>
+      <HashCode>AAAAAAQAEQAAAAAEgAIAAAAAAABAAIAAAAAAAgAAAAA=</HashCode>
       <FileName>Coda.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
@@ -43,7 +43,7 @@
   <Class Name="Classe_Aliante_Interface.Gomma">
     <Position X="7.25" Y="5.25" Width="3.25" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAcAAAAAEgAIAAACAAABEAAAAAAAAAgAQAAA=</HashCode>
+      <HashCode>AAAAAAAAAcAAAAAEgAIAAACAAABEAIAAAAAAAgAQAAA=</HashCode>
       <FileName>Gomma.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
@@ -51,10 +51,9 @@
   <Class Name="Classe_Aliante_Interface.Ruota">
     <Position X="10.75" Y="5.25" Width="3.25" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAQAAAAAEgAIABAAEAABAAAAAAAAAQwAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAQAAAAAEgAIABAAEAABAAIAAAAAAQwAAAAA=</HashCode>
       <FileName>Ruota.cs</FileName>
     </TypeIdentifier>
-    <Lollipop Position="0.2" />
   </Class>
   <Interface Name="Classe_Aliante_Interface.IComposite">
     <Position X="0.5" Y="0.75" Width="3" />

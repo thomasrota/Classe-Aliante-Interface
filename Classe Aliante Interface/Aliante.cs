@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Classe_Aliante_Interface
 {
-public class Aliante : IComposite
+	public class Aliante : IComposite
     {
         private List<IComposite> _componenti;
 
