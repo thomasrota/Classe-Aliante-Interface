@@ -58,6 +58,11 @@ namespace Classe_Aliante_Interface
 			return Pollici == other.Pollici && Materiale == other.Materiale;
 		}
 
+		public override int GetHashCode()
+		{
+			return base.GetHashCode();
+		}
+
 		public void Aggiunta(IComposite componente)
 		{
 

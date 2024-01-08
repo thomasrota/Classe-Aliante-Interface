@@ -50,6 +50,11 @@ namespace Classe_Aliante_Interface
 				return Lunghezza == other.Lunghezza;
 			}
 
+			public override int GetHashCode()
+			{
+				return base.GetHashCode();
+			}
+
 			public void Aggiunta(IComposite component)
 			{
 

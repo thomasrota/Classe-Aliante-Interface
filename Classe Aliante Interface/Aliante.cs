@@ -55,7 +55,12 @@ public class Aliante : IComposite
             return true;
         }
 
-        public void Aggiunta(IComposite componente)
+        public override int GetHashCode()
+        {
+	        return base.GetHashCode();
+        }
+
+		public void Aggiunta(IComposite componente)
         {
             IComposites.Add(componente);
         }

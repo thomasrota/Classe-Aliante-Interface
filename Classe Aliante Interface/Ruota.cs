@@ -52,6 +52,10 @@ namespace Classe_Aliante_Interface
 			return Gomma == other.Gomma && Cerchione == other.Cerchione;
 		}
 
+		public override int GetHashCode()
+		{
+			return base.GetHashCode();
+		}s
 		public void Aggiunta(IComposite componente)
 		{
 
